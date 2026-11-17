@@ -1,6 +1,6 @@
 # Olga A.
 
-Director of Data Implementation & Engineering · IAPP AIGP (AI Governance Professional) · AI advisor to the University of San Francisco
+Data & AI Engineering Leader · IAPP AIGP (AI Governance Professional) · AI advisor to the University of San Francisco
 
 I build data platforms and the governance and measurement around AI systems: how to inventory them, score their risk, control them, and prove they deliver value.
 
