@@ -1,4 +1,4 @@
-# Olga A.
+# Olga Arkadieva
 
 Data & AI Engineering Leader · IAPP AIGP (AI Governance Professional) · AI advisor to the University of San Francisco
 
