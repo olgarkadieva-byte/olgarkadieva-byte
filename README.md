@@ -2,9 +2,20 @@
 
 Data & AI Engineering Leader · IAPP AIGP (AI Governance Professional) · AI advisor to the University of San Francisco
 
-I build data platforms and the governance and measurement around AI systems: how to inventory them, score their risk, control them, and prove they deliver value.
+I build data platforms and the governance and measurement around AI systems: how to inventory them, score their risk, control them, test them before release, and prove they deliver value.
 
 ## Open-source tools
+
+### [AgentMeter](https://github.com/olgarkadieva-byte/agentmeter)
+
+Test your AI agent before it ships.
+
+- Task success with 95% ranges, and pass^k reliability across repeated runs
+- Tool-use accuracy, cost per successful task and p95 latency for every version
+- Permission policy with a runtime guard and a full audit log of tool calls
+- A **Ship / Hold / Block** release gate that fails the CI build on a regression
+
+[Live demo](https://olgarkadieva-byte.github.io/agentmeter/) · [Data contract](https://github.com/olgarkadieva-byte/agentmeter/blob/main/DATA_CONTRACT.md)
 
 ### [AI Impact Measurement](https://github.com/olgarkadieva-byte/ai-impact-measurement)
 
