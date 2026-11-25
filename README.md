@@ -4,7 +4,7 @@ Data & AI Engineering Leader · IAPP AIGP (AI Governance Professional) · AI adv
 
 I build data platforms and the governance and measurement around AI systems: how to inventory them, score their risk, control them, test them before release, and prove they deliver value.
 
-## Open-source tools
+## Free, open tools
 
 ### [AgentMeter](https://github.com/olgarkadieva-byte/agentmeter)
 
@@ -45,3 +45,6 @@ Articles on AI governance, AI agents and measuring AI value on [Substack](https:
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/olga-arkadieva-aigp-989677112/) · [Substack](https://olgasoffice.substack.com/) · [smartailayer.com](https://smartailayer.com/)
+
+
+_Personal, non-commercial projects, built on my own time with public information and synthetic data. Not affiliated with any current or past employer._
